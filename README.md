@@ -1,0 +1,1 @@
+This repository contains all .v and tb files for ECE 128 Lab 7. Including the .v files for the switch debouncer, and the Mealy and Moore FSM. The testbenches for the Mealy and Moore designs are included, the switch debouncer was demonstrated during lab.
